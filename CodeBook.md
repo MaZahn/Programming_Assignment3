@@ -27,7 +27,7 @@ The files are read and merged for the train and for the test data respectively a
 
 ########
 # FINAL DATA SET
-file ProgrammingAssignment_Week4.txt contains subject names, activities and their mean variables for those rows where activies are greater than 0. 
+file ProgrammingAssignment_Week4.txt contains subject names, activities and averages of variables of those rows where activies are greater than 0. 
 
 
 
